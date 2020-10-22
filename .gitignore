@@ -1,0 +1,7 @@
+flowers/
+generate_images/
+*.h5
+*.pickle
+Data/
+.ipynb_checkpoints
+__pycache__
